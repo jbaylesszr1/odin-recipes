@@ -1,0 +1,46 @@
+/* styles.css */
+
+h1 {
+    background-color: red;
+    font-weight: 500;
+    color: green;
+}
+
+ul {
+    color: green;
+    background-color: orange;
+    font-weight: 500;
+
+}
+
+h2 {
+    background-color: pink;
+    font-weight: 800;
+    font-size: 30px;
+
+
+}
+
+.ingredients.list {
+    background-color: red;
+    color: black;
+    font-size: 22px;
+}
+
+.caution {
+    color: red;
+    font-weight: 900;
+    font-size: 30px
+
+}
+
+.instruction.list {
+    color: green;
+    background-color: yellow;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+p {
+    font-size: 20px;
+}
